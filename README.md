@@ -1,7 +1,8 @@
 # Heart Particles Animation
 
 A beautiful interactive heart-shaped particle animation implemented in HTML5 Canvas with customizable controls.
-                          ![Uploading image.png…]()
+                      ![image](https://github.com/user-attachments/assets/6a526de6-4b7a-4fa7-a091-222f61178c56)
+
 
 
 ---
